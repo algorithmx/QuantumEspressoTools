@@ -1,0 +1,969 @@
+
+------------------
+SG=2
+(SG, uniqueb, IB) = (2, false, 14)
+(t1, t2, t3, t12, t23, t31) = (false, false, false, true, true, true)
+(a1, a2, a3) = ([0.2469166181700511, 0.0, 0.0], [0.0077459509458863655, 0.060434548288843246, 0.0], [0.00012448256765456707, 2.1053132333292574e-6, 0.0005533350335722911])
+
+UC0 = UNITCELL(:Angstrom, 2, 0.2469166181700511, [1.0, 0.0, 0.0], [0.03137071535846057, 0.2447569091814714, 0.0], [0.0005041481961689437, 8.526413689496312e-6, 0.0022409793138800003])
+
+UC1 = UNITCELL(:Bohr, 2, 0.46660478396019167, [1.0, 0.0, 0.0], [0.007793800052846888, 0.24663601329673016, 0.0], [0.0005041481961689439, 8.526413689496284e-6, 0.0022409793138800003])
+UC2 = UNITCELL(:Bohr, 2, 0.46660478396019167, [1.0, 0.0, 0.0], [0.007793800052846888, 0.24663601329673016, 0.0], [0.0005041481961689439, 8.526413689496284e-6, 0.0022409793138800003])
+UC3 = UNITCELL(:Bohr, 2, 0.46660478396019167, [1.0, 0.0, 0.0], [0.007793800052846888, 0.24663601329673016, 0.0], [0.0005041481961689439, 8.526413689496284e-6, 0.0022409793138800003])
+
+------------------
+SG=3
+(SG, uniqueb, IB) = (3, false, 12)
+(SG, uniqueb, IB) = (3, true, -12)
+
+------------------
+SG=4
+(SG, uniqueb, IB) = (4, false, 12)
+(SG, uniqueb, IB) = (4, true, -12)
+
+------------------
+SG=5
+(SG, uniqueb, IB) = (5, false, 13)
+(SG, uniqueb, IB) = (5, true, -13)
+
+------------------
+SG=6
+(SG, uniqueb, IB) = (6, false, 12)
+(SG, uniqueb, IB) = (6, true, -12)
+
+------------------
+SG=7
+(SG, uniqueb, IB) = (7, false, 12)
+(SG, uniqueb, IB) = (7, true, -12)
+
+------------------
+SG=8
+(SG, uniqueb, IB) = (8, false, 13)
+(SG, uniqueb, IB) = (8, true, -13)
+
+------------------
+SG=9
+(SG, uniqueb, IB) = (9, false, 13)
+(SG, uniqueb, IB) = (9, true, -13)
+
+------------------
+SG=10
+(SG, uniqueb, IB) = (10, false, 12)
+(SG, uniqueb, IB) = (10, true, -12)
+
+------------------
+SG=11
+(SG, uniqueb, IB) = (11, false, 12)
+(SG, uniqueb, IB) = (11, true, -12)
+
+------------------
+SG=12
+(SG, uniqueb, IB) = (12, false, 13)
+(SG, uniqueb, IB) = (12, true, -13)
+
+------------------
+SG=13
+(SG, uniqueb, IB) = (13, false, 12)
+(SG, uniqueb, IB) = (13, true, -12)
+
+------------------
+SG=14
+(SG, uniqueb, IB) = (14, false, 12)
+(SG, uniqueb, IB) = (14, true, -12)
+
+------------------
+SG=15
+(SG, uniqueb, IB) = (15, false, 13)
+(SG, uniqueb, IB) = (15, true, -13)
+
+------------------
+SG=16
+(SG, uniqueb, IB) = (16, false, 8)
+
+------------------
+SG=17
+(SG, uniqueb, IB) = (17, false, 8)
+
+------------------
+SG=18
+(SG, uniqueb, IB) = (18, false, 8)
+
+------------------
+SG=19
+(SG, uniqueb, IB) = (19, false, 8)
+
+------------------
+SG=20
+(SG, uniqueb, IB) = (20, false, 9)
+(SG, uniqueb, IB) = (20, true, -9)
+
+------------------
+SG=21
+(SG, uniqueb, IB) = (21, false, 9)
+(SG, uniqueb, IB) = (21, true, -9)
+
+------------------
+SG=22
+(SG, uniqueb, IB) = (22, false, 10)
+
+------------------
+SG=23
+(SG, uniqueb, IB) = (23, false, 11)
+
+------------------
+SG=24
+(SG, uniqueb, IB) = (24, false, 11)
+
+------------------
+SG=25
+(SG, uniqueb, IB) = (25, false, 8)
+
+------------------
+SG=26
+(SG, uniqueb, IB) = (26, false, 8)
+
+------------------
+SG=27
+(SG, uniqueb, IB) = (27, false, 8)
+
+------------------
+SG=28
+(SG, uniqueb, IB) = (28, false, 8)
+
+------------------
+SG=29
+(SG, uniqueb, IB) = (29, false, 8)
+
+------------------
+SG=30
+(SG, uniqueb, IB) = (30, false, 8)
+
+------------------
+SG=31
+(SG, uniqueb, IB) = (31, false, 8)
+
+------------------
+SG=32
+(SG, uniqueb, IB) = (32, false, 8)
+
+------------------
+SG=33
+(SG, uniqueb, IB) = (33, false, 8)
+
+------------------
+SG=34
+(SG, uniqueb, IB) = (34, false, 8)
+
+------------------
+SG=35
+(SG, uniqueb, IB) = (35, false, 9)
+(SG, uniqueb, IB) = (35, true, -9)
+
+------------------
+SG=36
+(SG, uniqueb, IB) = (36, false, 9)
+(SG, uniqueb, IB) = (36, true, -9)
+
+------------------
+SG=37
+(SG, uniqueb, IB) = (37, false, 9)
+(SG, uniqueb, IB) = (37, true, -9)
+
+------------------
+SG=38
+(SG, uniqueb, IB) = (38, false, 9)
+(SG, uniqueb, IB) = (38, true, -9)
+
+------------------
+SG=39
+(SG, uniqueb, IB) = (39, false, 9)
+(SG, uniqueb, IB) = (39, true, -9)
+
+------------------
+SG=40
+(SG, uniqueb, IB) = (40, false, 9)
+(SG, uniqueb, IB) = (40, true, -9)
+
+------------------
+SG=41
+(SG, uniqueb, IB) = (41, false, 9)
+(SG, uniqueb, IB) = (41, true, -9)
+
+------------------
+SG=42
+(SG, uniqueb, IB) = (42, false, 10)
+
+------------------
+SG=43
+(SG, uniqueb, IB) = (43, false, 10)
+
+------------------
+SG=44
+(SG, uniqueb, IB) = (44, false, 11)
+
+------------------
+SG=45
+(SG, uniqueb, IB) = (45, false, 11)
+
+------------------
+SG=46
+(SG, uniqueb, IB) = (46, false, 11)
+
+------------------
+SG=47
+(SG, uniqueb, IB) = (47, false, 8)
+
+------------------
+SG=48
+(SG, uniqueb, IB) = (48, false, 8)
+
+------------------
+SG=49
+(SG, uniqueb, IB) = (49, false, 8)
+
+------------------
+SG=50
+(SG, uniqueb, IB) = (50, false, 8)
+
+------------------
+SG=51
+(SG, uniqueb, IB) = (51, false, 8)
+
+------------------
+SG=52
+(SG, uniqueb, IB) = (52, false, 8)
+
+------------------
+SG=53
+(SG, uniqueb, IB) = (53, false, 8)
+
+------------------
+SG=54
+(SG, uniqueb, IB) = (54, false, 8)
+
+------------------
+SG=55
+(SG, uniqueb, IB) = (55, false, 8)
+
+------------------
+SG=56
+(SG, uniqueb, IB) = (56, false, 8)
+
+------------------
+SG=57
+(SG, uniqueb, IB) = (57, false, 8)
+
+------------------
+SG=58
+(SG, uniqueb, IB) = (58, false, 8)
+
+------------------
+SG=59
+(SG, uniqueb, IB) = (59, false, 8)
+
+------------------
+SG=60
+(SG, uniqueb, IB) = (60, false, 8)
+
+------------------
+SG=61
+(SG, uniqueb, IB) = (61, false, 8)
+
+------------------
+SG=62
+(SG, uniqueb, IB) = (62, false, 8)
+
+------------------
+SG=63
+(SG, uniqueb, IB) = (63, false, 9)
+(SG, uniqueb, IB) = (63, true, -9)
+
+------------------
+SG=64
+(SG, uniqueb, IB) = (64, false, 9)
+(SG, uniqueb, IB) = (64, true, -9)
+
+------------------
+SG=65
+(SG, uniqueb, IB) = (65, false, 9)
+(SG, uniqueb, IB) = (65, true, -9)
+
+------------------
+SG=66
+(SG, uniqueb, IB) = (66, false, 9)
+(SG, uniqueb, IB) = (66, true, -9)
+
+------------------
+SG=67
+(SG, uniqueb, IB) = (67, false, 9)
+(SG, uniqueb, IB) = (67, true, -9)
+
+------------------
+SG=68
+(SG, uniqueb, IB) = (68, false, 9)
+(SG, uniqueb, IB) = (68, true, -9)
+
+------------------
+SG=69
+(SG, uniqueb, IB) = (69, false, 10)
+
+------------------
+SG=70
+(SG, uniqueb, IB) = (70, false, 10)
+
+------------------
+SG=71
+(SG, uniqueb, IB) = (71, false, 11)
+
+------------------
+SG=72
+(SG, uniqueb, IB) = (72, false, 11)
+
+------------------
+SG=73
+(SG, uniqueb, IB) = (73, false, 11)
+
+------------------
+SG=74
+(SG, uniqueb, IB) = (74, false, 11)
+
+------------------
+SG=75
+(SG, uniqueb, IB) = (75, false, 6)
+
+------------------
+SG=76
+(SG, uniqueb, IB) = (76, false, 6)
+
+------------------
+SG=77
+(SG, uniqueb, IB) = (77, false, 6)
+
+------------------
+SG=78
+(SG, uniqueb, IB) = (78, false, 6)
+
+------------------
+SG=79
+(SG, uniqueb, IB) = (79, false, 7)
+
+------------------
+SG=80
+(SG, uniqueb, IB) = (80, false, 7)
+
+------------------
+SG=81
+(SG, uniqueb, IB) = (81, false, 6)
+
+------------------
+SG=82
+(SG, uniqueb, IB) = (82, false, 7)
+
+------------------
+SG=83
+(SG, uniqueb, IB) = (83, false, 6)
+
+------------------
+SG=84
+(SG, uniqueb, IB) = (84, false, 6)
+
+------------------
+SG=85
+(SG, uniqueb, IB) = (85, false, 6)
+
+------------------
+SG=86
+(SG, uniqueb, IB) = (86, false, 6)
+
+------------------
+SG=87
+(SG, uniqueb, IB) = (87, false, 7)
+
+------------------
+SG=88
+(SG, uniqueb, IB) = (88, false, 7)
+
+------------------
+SG=89
+(SG, uniqueb, IB) = (89, false, 6)
+
+------------------
+SG=90
+(SG, uniqueb, IB) = (90, false, 6)
+
+------------------
+SG=91
+(SG, uniqueb, IB) = (91, false, 6)
+
+------------------
+SG=92
+(SG, uniqueb, IB) = (92, false, 6)
+
+------------------
+SG=93
+(SG, uniqueb, IB) = (93, false, 6)
+
+------------------
+SG=94
+(SG, uniqueb, IB) = (94, false, 6)
+
+------------------
+SG=95
+(SG, uniqueb, IB) = (95, false, 6)
+
+------------------
+SG=96
+(SG, uniqueb, IB) = (96, false, 6)
+
+------------------
+SG=97
+(SG, uniqueb, IB) = (97, false, 7)
+
+------------------
+SG=98
+(SG, uniqueb, IB) = (98, false, 7)
+
+------------------
+SG=99
+(SG, uniqueb, IB) = (99, false, 6)
+
+------------------
+SG=100
+(SG, uniqueb, IB) = (100, false, 6)
+
+------------------
+SG=101
+(SG, uniqueb, IB) = (101, false, 6)
+
+------------------
+SG=102
+(SG, uniqueb, IB) = (102, false, 6)
+
+------------------
+SG=103
+(SG, uniqueb, IB) = (103, false, 6)
+
+------------------
+SG=104
+(SG, uniqueb, IB) = (104, false, 6)
+
+------------------
+SG=105
+(SG, uniqueb, IB) = (105, false, 6)
+
+------------------
+SG=106
+(SG, uniqueb, IB) = (106, false, 6)
+
+------------------
+SG=107
+(SG, uniqueb, IB) = (107, false, 7)
+
+------------------
+SG=108
+(SG, uniqueb, IB) = (108, false, 7)
+
+------------------
+SG=109
+(SG, uniqueb, IB) = (109, false, 7)
+
+------------------
+SG=110
+(SG, uniqueb, IB) = (110, false, 7)
+
+------------------
+SG=111
+(SG, uniqueb, IB) = (111, false, 6)
+
+------------------
+SG=112
+(SG, uniqueb, IB) = (112, false, 6)
+
+------------------
+SG=113
+(SG, uniqueb, IB) = (113, false, 6)
+
+------------------
+SG=114
+(SG, uniqueb, IB) = (114, false, 6)
+
+------------------
+SG=115
+(SG, uniqueb, IB) = (115, false, 6)
+
+------------------
+SG=116
+(SG, uniqueb, IB) = (116, false, 6)
+
+------------------
+SG=117
+(SG, uniqueb, IB) = (117, false, 6)
+
+------------------
+SG=118
+(SG, uniqueb, IB) = (118, false, 6)
+
+------------------
+SG=119
+(SG, uniqueb, IB) = (119, false, 7)
+
+------------------
+SG=120
+(SG, uniqueb, IB) = (120, false, 7)
+
+------------------
+SG=121
+(SG, uniqueb, IB) = (121, false, 7)
+
+------------------
+SG=122
+(SG, uniqueb, IB) = (122, false, 7)
+
+------------------
+SG=123
+(SG, uniqueb, IB) = (123, false, 6)
+
+------------------
+SG=124
+(SG, uniqueb, IB) = (124, false, 6)
+
+------------------
+SG=125
+(SG, uniqueb, IB) = (125, false, 6)
+
+------------------
+SG=126
+(SG, uniqueb, IB) = (126, false, 6)
+
+------------------
+SG=127
+(SG, uniqueb, IB) = (127, false, 6)
+
+------------------
+SG=128
+(SG, uniqueb, IB) = (128, false, 6)
+
+------------------
+SG=129
+(SG, uniqueb, IB) = (129, false, 6)
+
+------------------
+SG=130
+(SG, uniqueb, IB) = (130, false, 6)
+
+------------------
+SG=131
+(SG, uniqueb, IB) = (131, false, 6)
+
+------------------
+SG=132
+(SG, uniqueb, IB) = (132, false, 6)
+
+------------------
+SG=133
+(SG, uniqueb, IB) = (133, false, 6)
+
+------------------
+SG=134
+(SG, uniqueb, IB) = (134, false, 6)
+
+------------------
+SG=135
+(SG, uniqueb, IB) = (135, false, 6)
+
+------------------
+SG=136
+(SG, uniqueb, IB) = (136, false, 6)
+
+------------------
+SG=137
+(SG, uniqueb, IB) = (137, false, 6)
+
+------------------
+SG=138
+(SG, uniqueb, IB) = (138, false, 6)
+
+------------------
+SG=139
+(SG, uniqueb, IB) = (139, false, 7)
+
+------------------
+SG=140
+(SG, uniqueb, IB) = (140, false, 7)
+
+------------------
+SG=141
+(SG, uniqueb, IB) = (141, false, 7)
+
+------------------
+SG=142
+(SG, uniqueb, IB) = (142, false, 7)
+
+------------------
+SG=143
+(SG, uniqueb, IB) = (143, false, 4)
+
+------------------
+SG=144
+(SG, uniqueb, IB) = (144, false, 4)
+
+------------------
+SG=145
+(SG, uniqueb, IB) = (145, false, 4)
+
+------------------
+SG=146
+(SG, uniqueb, IB) = (146, false, 5)
+(SG, uniqueb, IB) = (146, true, -5)
+
+------------------
+SG=147
+(SG, uniqueb, IB) = (147, false, 4)
+
+------------------
+SG=148
+(SG, uniqueb, IB) = (148, false, 5)
+(SG, uniqueb, IB) = (148, true, -5)
+
+------------------
+SG=149
+(SG, uniqueb, IB) = (149, false, 4)
+
+------------------
+SG=150
+(SG, uniqueb, IB) = (150, false, 4)
+
+------------------
+SG=151
+(SG, uniqueb, IB) = (151, false, 4)
+
+------------------
+SG=152
+(SG, uniqueb, IB) = (152, false, 4)
+
+------------------
+SG=153
+(SG, uniqueb, IB) = (153, false, 4)
+
+------------------
+SG=154
+(SG, uniqueb, IB) = (154, false, 4)
+
+------------------
+SG=155
+(SG, uniqueb, IB) = (155, false, 5)
+(SG, uniqueb, IB) = (155, true, -5)
+
+------------------
+SG=156
+(SG, uniqueb, IB) = (156, false, 4)
+
+------------------
+SG=157
+(SG, uniqueb, IB) = (157, false, 4)
+
+------------------
+SG=158
+(SG, uniqueb, IB) = (158, false, 4)
+
+------------------
+SG=159
+(SG, uniqueb, IB) = (159, false, 4)
+
+------------------
+SG=160
+(SG, uniqueb, IB) = (160, false, 5)
+(SG, uniqueb, IB) = (160, true, -5)
+
+------------------
+SG=161
+(SG, uniqueb, IB) = (161, false, 5)
+(SG, uniqueb, IB) = (161, true, -5)
+
+------------------
+SG=162
+(SG, uniqueb, IB) = (162, false, 4)
+
+------------------
+SG=163
+(SG, uniqueb, IB) = (163, false, 4)
+
+------------------
+SG=164
+(SG, uniqueb, IB) = (164, false, 4)
+
+------------------
+SG=165
+(SG, uniqueb, IB) = (165, false, 4)
+
+------------------
+SG=166
+(SG, uniqueb, IB) = (166, false, 5)
+(SG, uniqueb, IB) = (166, true, -5)
+
+------------------
+SG=167
+(SG, uniqueb, IB) = (167, false, 5)
+(SG, uniqueb, IB) = (167, true, -5)
+
+------------------
+SG=168
+(SG, uniqueb, IB) = (168, false, 4)
+
+------------------
+SG=169
+(SG, uniqueb, IB) = (169, false, 4)
+
+------------------
+SG=170
+(SG, uniqueb, IB) = (170, false, 4)
+
+------------------
+SG=171
+(SG, uniqueb, IB) = (171, false, 4)
+
+------------------
+SG=172
+(SG, uniqueb, IB) = (172, false, 4)
+
+------------------
+SG=173
+(SG, uniqueb, IB) = (173, false, 4)
+
+------------------
+SG=174
+(SG, uniqueb, IB) = (174, false, 4)
+
+------------------
+SG=175
+(SG, uniqueb, IB) = (175, false, 4)
+
+------------------
+SG=176
+(SG, uniqueb, IB) = (176, false, 4)
+
+------------------
+SG=177
+(SG, uniqueb, IB) = (177, false, 4)
+
+------------------
+SG=178
+(SG, uniqueb, IB) = (178, false, 4)
+
+------------------
+SG=179
+(SG, uniqueb, IB) = (179, false, 4)
+
+------------------
+SG=180
+(SG, uniqueb, IB) = (180, false, 4)
+
+------------------
+SG=181
+(SG, uniqueb, IB) = (181, false, 4)
+
+------------------
+SG=182
+(SG, uniqueb, IB) = (182, false, 4)
+
+------------------
+SG=183
+(SG, uniqueb, IB) = (183, false, 4)
+
+------------------
+SG=184
+(SG, uniqueb, IB) = (184, false, 4)
+
+------------------
+SG=185
+(SG, uniqueb, IB) = (185, false, 4)
+
+------------------
+SG=186
+(SG, uniqueb, IB) = (186, false, 4)
+
+------------------
+SG=187
+(SG, uniqueb, IB) = (187, false, 4)
+
+------------------
+SG=188
+(SG, uniqueb, IB) = (188, false, 4)
+
+------------------
+SG=189
+(SG, uniqueb, IB) = (189, false, 4)
+
+------------------
+SG=190
+(SG, uniqueb, IB) = (190, false, 4)
+
+------------------
+SG=191
+(SG, uniqueb, IB) = (191, false, 4)
+
+------------------
+SG=192
+(SG, uniqueb, IB) = (192, false, 4)
+
+------------------
+SG=193
+(SG, uniqueb, IB) = (193, false, 4)
+
+------------------
+SG=194
+(SG, uniqueb, IB) = (194, false, 4)
+
+------------------
+SG=195
+(SG, uniqueb, IB) = (195, false, 1)
+
+------------------
+SG=196
+(SG, uniqueb, IB) = (196, false, 2)
+
+------------------
+SG=197
+(SG, uniqueb, IB) = (197, false, 3)
+(SG, uniqueb, IB) = (197, true, -3)
+
+------------------
+SG=198
+(SG, uniqueb, IB) = (198, false, 1)
+
+------------------
+SG=199
+(SG, uniqueb, IB) = (199, false, 3)
+(SG, uniqueb, IB) = (199, true, -3)
+
+------------------
+SG=200
+(SG, uniqueb, IB) = (200, false, 1)
+
+------------------
+SG=201
+(SG, uniqueb, IB) = (201, false, 1)
+
+------------------
+SG=202
+(SG, uniqueb, IB) = (202, false, 2)
+
+------------------
+SG=203
+(SG, uniqueb, IB) = (203, false, 2)
+
+------------------
+SG=204
+(SG, uniqueb, IB) = (204, false, 3)
+(SG, uniqueb, IB) = (204, true, -3)
+
+------------------
+SG=205
+(SG, uniqueb, IB) = (205, false, 1)
+
+------------------
+SG=206
+(SG, uniqueb, IB) = (206, false, 3)
+(SG, uniqueb, IB) = (206, true, -3)
+
+------------------
+SG=207
+(SG, uniqueb, IB) = (207, false, 1)
+
+------------------
+SG=208
+(SG, uniqueb, IB) = (208, false, 1)
+
+------------------
+SG=209
+(SG, uniqueb, IB) = (209, false, 2)
+
+------------------
+SG=210
+(SG, uniqueb, IB) = (210, false, 2)
+
+------------------
+SG=211
+(SG, uniqueb, IB) = (211, false, 3)
+(SG, uniqueb, IB) = (211, true, -3)
+
+------------------
+SG=212
+(SG, uniqueb, IB) = (212, false, 1)
+
+------------------
+SG=213
+(SG, uniqueb, IB) = (213, false, 1)
+
+------------------
+SG=214
+(SG, uniqueb, IB) = (214, false, 3)
+(SG, uniqueb, IB) = (214, true, -3)
+
+------------------
+SG=215
+(SG, uniqueb, IB) = (215, false, 1)
+
+------------------
+SG=216
+(SG, uniqueb, IB) = (216, false, 2)
+
+------------------
+SG=217
+(SG, uniqueb, IB) = (217, false, 3)
+(SG, uniqueb, IB) = (217, true, -3)
+
+------------------
+SG=218
+(SG, uniqueb, IB) = (218, false, 1)
+
+------------------
+SG=219
+(SG, uniqueb, IB) = (219, false, 2)
+
+------------------
+SG=220
+(SG, uniqueb, IB) = (220, false, 3)
+(SG, uniqueb, IB) = (220, true, -3)
+
+------------------
+SG=221
+(SG, uniqueb, IB) = (221, false, 1)
+
+------------------
+SG=222
+(SG, uniqueb, IB) = (222, false, 1)
+
+------------------
+SG=223
+(SG, uniqueb, IB) = (223, false, 1)
+
+------------------
+SG=224
+(SG, uniqueb, IB) = (224, false, 1)
+
+------------------
+SG=225
+(SG, uniqueb, IB) = (225, false, 2)
+
+------------------
+SG=226
+(SG, uniqueb, IB) = (226, false, 2)
+
+------------------
+SG=227
+(SG, uniqueb, IB) = (227, false, 2)
+
+------------------
+SG=228
+(SG, uniqueb, IB) = (228, false, 2)
+
+------------------
+SG=229
+(SG, uniqueb, IB) = (229, false, 3)
+(SG, uniqueb, IB) = (229, true, -3)
+
+------------------
+SG=230
+(SG, uniqueb, IB) = (230, false, 3)
+(SG, uniqueb, IB) = (230, true, -3)
